@@ -2,6 +2,12 @@
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,r,sqlite)](https://skillicons.dev)
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/08491a58-a9e2-4e93-a18a-89944e8d348d" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6e521a96-54e0-4491-826c-9ed532563999" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de937c95-ce5f-400d-8a3f-d3da0628ed72" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b0f89751-68bd-49a9-b59f-fba01fa17776" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5fe03b5a-1702-4788-9087-90d7194719b8" />
+
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
