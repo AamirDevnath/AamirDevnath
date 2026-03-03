@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Aamir&fontSize=70&reversal=true"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aamir%20Devnath&animation=fadeIn"/> 
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,r,sqlite)](https://skillicons.dev)
