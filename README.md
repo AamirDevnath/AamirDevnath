@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0078D4,50:7B2FF7,100:FF6B6B&text=Aamir%20Devnath&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Analyst%20%7C%20Cloud%20Engineer%20%7C%20BI%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
----
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```python
