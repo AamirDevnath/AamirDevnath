@@ -17,8 +17,6 @@ analyst = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:FF6B6B&height=3"/>
 
----
-
 ## My Data Analysis Workflow
 
 > Every project follows a structured, repeatable process — **business objectives first, always.**
@@ -63,8 +61,6 @@ flowchart TD
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:FF8C00&height=3"/>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -87,8 +83,6 @@ flowchart TD
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06D6A0,100:0078D4&height=3"/>
 
----
-
 ## Certifications
 
 <p align="center">
@@ -100,8 +94,6 @@ flowchart TD
   &nbsp;
   <img src="https://img.shields.io/badge/Microsoft-Cloud%20Support%20Associate-7B2FF7?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
-
----
 
 ## Let's Connect
 
