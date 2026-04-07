@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aamir%20Devnath&animation=fadeIn"/> 
 
-# Hi, I'm Aamir 👋
+# Hi, I'm Aamir!
 ### Data Analyst | Cloud & BI Enthusiast | Microsoft Azure Certified
 
 I turn raw data into decisions. My work sits at the intersection of **business analysis**, **cloud data engineering**, and **visual storytelling** — helping organisations move from questions to answers, faster.
 
 ---
 
-## 🔁 My Data Analysis Workflow
+## My Data Analysis Workflow
 
 Every project I take on follows a structured, repeatable process that keeps business objectives at the centre at every stage.
 
@@ -51,7 +51,7 @@ flowchart TD
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,r,sqlite)](https://skillicons.dev)
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/08491a58-a9e2-4e93-a18a-89944e8d348d" />
@@ -62,7 +62,7 @@ flowchart TD
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 - **Microsoft Certified** – Azure & Cloud fundamentals
 - **IBM Data Analyst Professional Certificate**
@@ -71,17 +71,7 @@ flowchart TD
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tools |
-|---|---|---|
-| [Complete Microsoft Fabric Project](#) | End-to-end data pipeline from ingestion to BI reporting | Microsoft Fabric, Power BI |
-| [Customer Segmentation & Market Analysis](#) | Clustering and segment profiling for business strategy | Python, Pandas, Scikit-learn |
-| [Bike Store End-to-End Analysis](#) | Full analysis pipeline from raw sales data to executive dashboard | SQL, Python, Power BI |
-
----
-
-## 📫 Let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
