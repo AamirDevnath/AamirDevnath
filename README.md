@@ -53,13 +53,12 @@ flowchart TD
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,r,sqlite)](https://skillicons.dev)
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/08491a58-a9e2-4e93-a18a-89944e8d348d" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6e521a96-54e0-4491-826c-9ed532563999" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de937c95-ce5f-400d-8a3f-d3da0628ed72" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b0f89751-68bd-49a9-b59f-fba01fa17776" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5fe03b5a-1702-4788-9087-90d7194719b8" />
 
 ---
 
