@@ -1,15 +1,43 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aamir%20Devnath&animation=fadeIn"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0078D4,50:7B2FF7,100:FF6B6B&text=Aamir%20Devnath&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Analyst%20%7C%20Cloud%20Engineer%20%7C%20BI%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-# Hi, I'm Aamir!
-### Data Analyst | Cloud & BI Enthusiast | Microsoft Azure Certified
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions+%F0%9F%9A%80;Cloud+%2B+Data+%2B+Business+Intelligence;From+questions+to+answers%2C+faster." alt="Typing SVG" />
+  </a>
+</p>
 
-I turn raw data into decisions. My work sits at the intersection of **business analysis**, **cloud data engineering**, and **visual storytelling** — helping organisations move from questions to answers, faster.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=7B2FF7&style=flat-square" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=flat-square" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0078D4,100:7B2FF7&height=3"/>
 
 ---
 
-## My Data Analysis Workflow
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-Every project I take on follows a structured, repeatable process that keeps business objectives at the centre at every stage.
+```python
+analyst = {
+    "name"          : "Aamir Devnath",
+    "location"      : "🌍 South Africa",
+    "focus"         : ["Data Analysis", "Cloud Engineering", "Business Intelligence"],
+    "tools"         : ["Python", "SQL", "Power BI", "Azure", "Microsoft Fabric"],
+    "certifications": ["Microsoft Azure", "IBM Data Analyst", "Google Analytics",
+                       "MS Cloud Support Associate"],
+    "currently"     : "Deepening Azure architecture knowledge 🔵",
+    "goal"          : "Help organisations make smarter decisions with data 💡"
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:FF6B6B&height=3"/>
+
+---
+
+## 🔁 My Data Analysis Workflow
+
+> Every project follows a structured, repeatable process — **business objectives first, always.**
 
 ```mermaid
 flowchart TD
@@ -24,55 +52,108 @@ flowchart TD
     H -- No --> J([📤 Deliver Report to Stakeholders])
     I --> J
 
-    style A fill:#0078D4,color:#fff,stroke:none
-    style B fill:#106EBE,color:#fff,stroke:none
-    style C fill:#106EBE,color:#fff,stroke:none
-    style D fill:#1E88E5,color:#fff,stroke:none
-    style E fill:#1E88E5,color:#fff,stroke:none
-    style F fill:#1976D2,color:#fff,stroke:none
-    style G fill:#1565C0,color:#fff,stroke:none
-    style H fill:#FF8C00,color:#fff,stroke:none
-    style I fill:#0078D4,color:#fff,stroke:none
-    style J fill:#004C97,color:#fff,stroke:none
+    style A fill:#7B2FF7,color:#fff,stroke:none
+    style B fill:#0078D4,color:#fff,stroke:none
+    style C fill:#0078D4,color:#fff,stroke:none
+    style D fill:#00B4D8,color:#fff,stroke:none
+    style E fill:#00B4D8,color:#fff,stroke:none
+    style F fill:#FF6B6B,color:#fff,stroke:none
+    style G fill:#FF8C00,color:#fff,stroke:none
+    style H fill:#7B2FF7,color:#fff,stroke:none
+    style I fill:#06D6A0,color:#fff,stroke:none
+    style J fill:#06D6A0,color:#fff,stroke:none
 ```
 
-### What each stage delivers
+### 📋 What each stage delivers
 
 | Stage | What I do | Why it matters |
-|---|---|---|
-| 🎯 Define Objectives | Align with stakeholders on the core question | Ensures analysis stays focused and relevant |
-| 📥 Load & Inspect | Profile datasets, check shape, types & nulls | Surfaces data quality issues early |
-| 🧹 Clean & Validate | Handle missing values, outliers & inconsistencies | Guarantees trustworthy results |
-| 📊 Univariate Analysis | Distributions, frequencies & summary stats | Builds understanding of each variable in isolation |
-| 🔗 Bivariate Analysis | Correlations, cross-tabs & comparative plots | Reveals relationships that drive business insight |
-| 💡 Answer Business Questions | Apply analysis directly to the original objectives | Keeps output actionable, not just informative |
-| 📝 Summarise Findings | Clear narrative with evidence-backed recommendations | Translates data into decisions stakeholders can act on |
-| 📈 Dashboard (if needed) | Interactive visual layer for ongoing monitoring | Empowers teams to self-serve insights |
+|:---|:---|:---|
+| 🎯 **Define Objectives** | Align with stakeholders on the core question | Ensures analysis stays focused and relevant |
+| 📥 **Load & Inspect** | Profile datasets — shape, types & nulls | Surfaces data quality issues early |
+| 🧹 **Clean & Validate** | Handle missing values, outliers & inconsistencies | Guarantees trustworthy results |
+| 📊 **Univariate Analysis** | Distributions, frequencies & summary stats | Builds understanding of each variable in isolation |
+| 🔗 **Bivariate Analysis** | Correlations, cross-tabs & comparative plots | Reveals relationships that drive business insight |
+| 💡 **Answer Business Questions** | Apply analysis directly to the original objectives | Keeps output actionable, not just informative |
+| 📝 **Summarise Findings** | Clear narrative with evidence-backed recommendations | Translates data into decisions stakeholders can act on |
+| 📈 **Dashboard (if needed)** | Interactive visual layer for ongoing monitoring | Empowers teams to self-serve insights |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:FF8C00&height=3"/>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,r,sqlite)](https://skillicons.dev)
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/08491a58-a9e2-4e93-a18a-89944e8d348d" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6e521a96-54e0-4491-826c-9ed532563999" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de937c95-ce5f-400d-8a3f-d3da0628ed72" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b0f89751-68bd-49a9-b59f-fba01fa17776" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5fe03b5a-1702-4788-9087-90d7194719b8" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,r,sqlite,azure,git,github,vscode&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="55" height="55" alt="Power BI" src="https://github.com/user-attachments/assets/08491a58-a9e2-4e93-a18a-89944e8d348d" />
+  &nbsp;
+  <img width="55" height="55" alt="Microsoft Fabric" src="https://github.com/user-attachments/assets/6e521a96-54e0-4491-826c-9ed532563999" />
+  &nbsp;
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/de937c95-ce5f-400d-8a3f-d3da0628ed72" />
+  &nbsp;
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/b0f89751-68bd-49a9-b59f-fba01fa17776" />
+  &nbsp;
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/5fe03b5a-1702-4788-9087-90d7194719b8" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06D6A0,100:0078D4&height=3"/>
 
 ---
 
-## Certifications
+## 📊 GitHub Stats
 
-- **Microsoft Certified** – Azure & Cloud fundamentals
-- **IBM Data Analyst Professional Certificate**
-- **Google Data Analytics Certificate**
-- **Microsoft Cloud Support Associate Professional Certificate**
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=7B2FF7&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&ring=7B2FF7&fire=FF6B6B&currStreakLabel=FF8C00" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=7B2FF7&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,100:7B2FF7&height=3"/>
 
 ---
 
-## Let's connect
+## 🏅 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IBM-Data%20Analyst%20Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft-Cloud%20Support%20Associate-7B2FF7?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
+---
+
+## 📌 Featured Projects
+
+| 🚀 Project | 📝 Description | 🛠️ Stack |
+|:---|:---|:---|
+| [**Complete Microsoft Fabric Project**](#) | End-to-end pipeline from ingestion to BI reporting | Microsoft Fabric, Power BI |
+| [**Customer Segmentation & Market Analysis**](#) | Clustering and segment profiling for business strategy | Python, Pandas, Scikit-learn |
+| [**Bike Store End-to-End Analysis**](#) | Full pipeline from raw sales data to executive dashboard | SQL, Python, Power BI |
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7B2FF7,50:0078D4,100:06D6A0&section=footer"/>
