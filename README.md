@@ -1,12 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0078D4,50:7B2FF7,100:FF6B6B&text=Aamir%20Devnath&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Analyst%20%7C%20Cloud%20Engineer%20%7C%20BI%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions+%F0%9F%9A%80;Cloud+%2B+Data+%2B+Business+Intelligence;From+questions+to+answers%2C+faster." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=7B2FF7&style=flat-square" alt="profile views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=flat-square" />
@@ -21,13 +15,13 @@
 ```python
 analyst = {
     "name"          : "Aamir Devnath",
-    "location"      : "🌍 South Africa",
+    "location"      : "South Africa",
     "focus"         : ["Data Analysis", "Cloud Engineering", "Business Intelligence"],
     "tools"         : ["Python", "SQL", "Power BI", "Azure", "Microsoft Fabric"],
     "certifications": ["Microsoft Azure", "IBM Data Analyst", "Google Analytics",
                        "MS Cloud Support Associate"],
-    "currently"     : "Deepening Azure architecture knowledge 🔵",
-    "goal"          : "Help organisations make smarter decisions with data 💡"
+    "currently"     : "Deepening Azure architecture knowledge",
+    "goal"          : "Help organisations make smarter decisions with data"
 }
 ```
 
@@ -35,21 +29,21 @@ analyst = {
 
 ---
 
-## 🔁 My Data Analysis Workflow
+## My Data Analysis Workflow
 
 > Every project follows a structured, repeatable process — **business objectives first, always.**
 
 ```mermaid
 flowchart TD
-    A([🎯 Define Business Objectives]) --> B
-    B([📥 Load & Inspect Data]) --> C
-    C([🧹 Clean & Validate Data]) --> D
-    D([📊 Univariate Analysis\nUnderstand Individual Variables]) --> E
-    E([🔗 Bivariate Analysis\nUncover Relationships & Patterns]) --> F
-    F([💡 Answer Business Questions]) --> G
-    G([📝 Summarise Findings & Recommendations]) --> H{Dashboard\nRequired?}
-    H -- Yes --> I([📈 Build Interactive Dashboard])
-    H -- No --> J([📤 Deliver Report to Stakeholders])
+    A([Define Business Objectives]) --> B
+    B([Load & Inspect Data]) --> C
+    C([Clean & Validate Data]) --> D
+    D([Univariate Analysis\nUnderstand Individual Variables]) --> E
+    E([Bivariate Analysis\nUncover Relationships & Patterns]) --> F
+    F([Answer Business Questions]) --> G
+    G([Summarise Findings & Recommendations]) --> H{Dashboard\nRequired?}
+    H -- Yes --> I([Build Interactive Dashboard])
+    H -- No --> J([Deliver Report to Stakeholders])
     I --> J
 
     style A fill:#7B2FF7,color:#fff,stroke:none
@@ -64,18 +58,18 @@ flowchart TD
     style J fill:#06D6A0,color:#fff,stroke:none
 ```
 
-### 📋 What each stage delivers
+### What each stage delivers
 
 | Stage | What I do | Why it matters |
 |:---|:---|:---|
-| 🎯 **Define Objectives** | Align with stakeholders on the core question | Ensures analysis stays focused and relevant |
-| 📥 **Load & Inspect** | Profile datasets — shape, types & nulls | Surfaces data quality issues early |
-| 🧹 **Clean & Validate** | Handle missing values, outliers & inconsistencies | Guarantees trustworthy results |
-| 📊 **Univariate Analysis** | Distributions, frequencies & summary stats | Builds understanding of each variable in isolation |
-| 🔗 **Bivariate Analysis** | Correlations, cross-tabs & comparative plots | Reveals relationships that drive business insight |
-| 💡 **Answer Business Questions** | Apply analysis directly to the original objectives | Keeps output actionable, not just informative |
-| 📝 **Summarise Findings** | Clear narrative with evidence-backed recommendations | Translates data into decisions stakeholders can act on |
-| 📈 **Dashboard (if needed)** | Interactive visual layer for ongoing monitoring | Empowers teams to self-serve insights |
+| **Define Objectives** | Align with stakeholders on the core question | Ensures analysis stays focused and relevant |
+| **Load & Inspect** | Profile datasets — shape, types & nulls | Surfaces data quality issues early |
+| **Clean & Validate** | Handle missing values, outliers & inconsistencies | Guarantees trustworthy results |
+| **Univariate Analysis** | Distributions, frequencies & summary stats | Builds understanding of each variable in isolation |
+| **Bivariate Analysis** | Correlations, cross-tabs & comparative plots | Reveals relationships that drive business insight |
+| **Answer Business Questions** | Apply analysis directly to the original objectives | Keeps output actionable, not just informative |
+| **Summarise Findings** | Clear narrative with evidence-backed recommendations | Translates data into decisions stakeholders can act on |
+| **Dashboard (if needed)** | Interactive visual layer for ongoing monitoring | Empowers teams to self-serve insights |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:FF8C00&height=3"/>
 
@@ -105,22 +99,7 @@ flowchart TD
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=7B2FF7&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&ring=7B2FF7&fire=FF6B6B&currStreakLabel=FF8C00" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=7B2FF7&text_color=ffffff&bg_color=0d1117" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,100:7B2FF7&height=3"/>
-
----
-
-## 🏅 Certifications
+## Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -134,17 +113,7 @@ flowchart TD
 
 ---
 
-## 📌 Featured Projects
-
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|:---|:---|:---|
-| [**Complete Microsoft Fabric Project**](#) | End-to-end pipeline from ingestion to BI reporting | Microsoft Fabric, Power BI |
-| [**Customer Segmentation & Market Analysis**](#) | Clustering and segment profiling for business strategy | Python, Pandas, Scikit-learn |
-| [**Bike Store End-to-End Analysis**](#) | Full pipeline from raw sales data to executive dashboard | SQL, Python, Power BI |
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="#">
