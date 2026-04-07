@@ -61,7 +61,7 @@ flowchart TD
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:FF8C00&height=3"/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
